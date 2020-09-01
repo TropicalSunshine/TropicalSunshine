@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 currently working on [Disco](https://github.com/TropicalSunshine/disco-web)
+- 🌱 currently learning [Jest](https://jestjs.io/en/)
+
 <!--
 **TropicalSunshine/TropicalSunshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
