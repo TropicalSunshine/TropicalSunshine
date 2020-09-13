@@ -1,7 +1,16 @@
-### Hi there 👋
+
+<div style="width:100vw;text-align:center;">
+  <h3>Hi there 👋</h3>
+  <img 
+       height="100"
+       src="https://media.giphy.com/media/KegPbvrQghq1y/giphy.gif" />
+  <img 
+     height="100"
+     src="https://media.giphy.com/media/MfSdxfJDocLu0/giphy.gif" />
+ </div>
 
 - 🔭 currently working on [Disco](https://github.com/TropicalSunshine/disco-web)
-- 🌱 currently learning [Jest](https://jestjs.io/en/), CI/CD
+- 🌱 learning [Jest](https://jestjs.io/en/), CI/CD
 
 <!--
 **TropicalSunshine/TropicalSunshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
