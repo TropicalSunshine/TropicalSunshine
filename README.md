@@ -1,12 +1,15 @@
 
-<div style="width:100vw;text-align:center;">
-  <h3>Hi there 👋</h3>
-  <img 
+<div align="center">
+  <h3 style="margin:auto;">Hi there 👋</h3>
+ </div>
+ 
+ <div align="center">
+      <img 
        height="100"
        src="https://media.giphy.com/media/KegPbvrQghq1y/giphy.gif" />
-  <img 
-     height="100"
-     src="https://media.giphy.com/media/MfSdxfJDocLu0/giphy.gif" />
+      <img 
+         height="100"
+         src="https://media.giphy.com/media/MfSdxfJDocLu0/giphy.gif" />
  </div>
 
 - 🔭 currently working on [Disco](https://github.com/TropicalSunshine/disco-web)
