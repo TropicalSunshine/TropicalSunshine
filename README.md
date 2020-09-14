@@ -10,6 +10,9 @@
       <img 
          height="100"
          src="https://media.giphy.com/media/MfSdxfJDocLu0/giphy.gif" />
+      <img 
+       height="100"
+       src="https://media.giphy.com/media/10wlcF5A7AHEbK/giphy.gif" />
  </div>
 
 - 🔭 currently working on [Disco](https://github.com/TropicalSunshine/disco-web)
