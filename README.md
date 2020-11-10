@@ -15,10 +15,10 @@
        src="https://media.giphy.com/media/10wlcF5A7AHEbK/giphy.gif" />
  </div>
 
-<div align="center">
+
   - 👓 currently working on [Disco](https:ce//github.com/TropicalSunshine/disco-web)
   - 🦔 learning [Jest](https://jestjs.io/en/), CI/CD
- </div>
+
 
 <!--
 **TropicalSunshine/TropicalSunshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
