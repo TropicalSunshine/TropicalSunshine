@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h3 style="margin:auto;">Hi there 👋</h3>
+  <h1 style="margin:auto;">Hi there 👋</h1>
  </div>
  
  <div align="center">
