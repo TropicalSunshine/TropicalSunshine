@@ -16,7 +16,7 @@
  </div>
 
 
-  - 👓 currently working on [Disco](https://disco-web2.herokuapp.com/)
+  - 👓 currently working on [Disco](https://github.com/TropicalSunshine/disco-web)
   - 🦔 learning [Jest](https://jestjs.io/en/), CI/CD
 
 
