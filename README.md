@@ -15,9 +15,7 @@
        src="https://media.giphy.com/media/10wlcF5A7AHEbK/giphy.gif" />
  </div>
  <div align="center">
-    <ul>
-      <li>currently workin gon [disco]</li>
-    </ul>
+     <h3>currently working on <a href="https://github.com/TropicalSunshine/disco-web">disco<a/> [disco]</h3>
  </div>
 
 
