@@ -14,6 +14,11 @@
        height="100"
        src="https://media.giphy.com/media/10wlcF5A7AHEbK/giphy.gif" />
  </div>
+ <div align="center">
+    <ul>
+      <li>currently workin gon [disco]</li>
+    </ul>
+ </div>
 
 
   - 👓 currently working on [Disco](https://github.com/TropicalSunshine/disco-web)
