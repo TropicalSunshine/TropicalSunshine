@@ -15,13 +15,9 @@
        src="https://media.giphy.com/media/10wlcF5A7AHEbK/giphy.gif" />
  </div>
  <div align="center">
-     <h3>currently working on <a href="https://github.com/TropicalSunshine/disco-web">disco<a/> [disco]</h3>
+     <h3>👓 currently working on <a href="https://github.com/TropicalSunshine/disco-web">disco<a/> [disco]</h3>
+     <h3>🦔 learning <a href="https://jestjs.io/en/">Jest</a>, CI/CD</h3>
  </div>
-
-
-  - 👓 currently working on [Disco](https://github.com/TropicalSunshine/disco-web)
-  - 🦔 learning [Jest](https://jestjs.io/en/), CI/CD
-
 
 <!--
 **TropicalSunshine/TropicalSunshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
