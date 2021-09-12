@@ -1,7 +1,4 @@
 
-<div align="center">
-  <h1 style="margin:auto;">Hi there 👋</h1>
- </div>
  
  <div align="center">
       <img 
@@ -13,10 +10,6 @@
       <img 
        height="100"
        src="https://media.giphy.com/media/10wlcF5A7AHEbK/giphy.gif" />
- </div>
- <div align="center">
-     <h3>👓 currently working on <a href="https://github.com/TropicalSunshine/disco-web">disco<a/> [disco]</h3>
-     <h3>🦔 learning <a href="https://jestjs.io/en/">Jest</a>, CI/CD</h3>
  </div>
 
 <!--
